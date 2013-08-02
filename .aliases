@@ -1,1 +1,2 @@
 alias sbt="~/Sublime/sublime_text &"
+alias ll="ls -la"
